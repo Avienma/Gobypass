@@ -5,4 +5,6 @@
 
 
 我们看云平台的情况检出率0/25，十分理想免杀效果。
-![图片](https://user-images.githubusercontent.com/83112602/162568147-ae5b01f1-930c-4fa1-9706-cb321f767f68.png)
+
+![图片](https://user-images.githubusercontent.com/83112602/162568168-c5bf6879-e2de-4e73-a326-e10be34949be.png)
+![图片](https://user-images.githubusercontent.com/83112602/162568173-721a95c8-55cd-4ceb-af80-52ea5fadea1f.png)
